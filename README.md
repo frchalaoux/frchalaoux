@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frchalaoux
 - 👀 I’m interested in Cleaning surfaces
-- 🌱 I’m currently learning how to optimize cleaning surface (roofs, facades, statue, monunments, ...)
+- 🌱 I’m currently learning how to optimize cleaning surface (roofs, facades, statue, monuments, ...)
 - 💞️ I’m looking to collaborate on cleaning manually and with drones
 - 📫 How to reach me: frchalaoux@icloud.com
 
